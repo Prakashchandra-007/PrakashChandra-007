@@ -1,3 +1,4 @@
+![im prakash](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Prakash Chandra Muduli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" />
