@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [encoded.com](encoded.com)
+- 👨‍💻 All of my projects are available at .....coming soon
 
-- 📝 I regularly write articles on [encoded.com/blog](encoded.com/blog)
+- 📝 I regularly write articles on .....coming soon
 
 - 📫 How to reach me **prakashchandramuduli007@gmail.com**
 
