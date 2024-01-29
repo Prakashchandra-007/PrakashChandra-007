@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/prakash_cm_007" target="blank"><img src="https://img.shields.io/twitter/follow/prokingp?logo=twitter&style=for-the-badge" alt="prokingp" /></a> </p>
 
-- 🔭 I’m currently working on [Movies Search Engine](https://prakashchandra-007.github.io/Movie-search-page/)
+- 🔭 I’m currently working on [Movies Search Engine](https://bookera.netlify.app/)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning Next js
 
-- 👨‍💻 All of my projects are available at .....coming soon
+- 👨‍💻 All of my projects are available at [portfolio](https://prakashchandramuduli.netlify.app/)
 
-- 📝 I regularly write articles on .....coming soon
+- 📝 I regularly write articles on [medium.com](https://medium.com/@prakashchandramuduli007)
 
 - 📫 How to reach me **prakashchandramuduli007@gmail.com**
 
