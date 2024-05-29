@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Movies Search Engine](https://bookera.netlify.app/)
 
-- 🌱 I’m currently learning Next js
+- 🌱 Want to LEARN lot of technologies
 
 - 👨‍💻 All of my projects are available at [portfolio](https://prakashchandramuduli.netlify.app/)
 
