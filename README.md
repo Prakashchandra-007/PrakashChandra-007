@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashchandra-007&label=Profile%20views&color=0e75b6&style=flat" alt="prakashchandra-007" /> </p>
 
-<p align="left"> <a href="https://twitter.com/prakash_cm_007" target="blank"><img src="https://img.shields.io/twitter/follow/prokingp?logo=twitter&style=for-the-badge" alt="prokingp" /></a> </p>
+<p align="left"> <a href="https://twitter.com/prakash_cm_007" target="blank"><img src="https://img.shields.io/twitter/follow/prokingp?logo=twitter&style=for-the-badge" alt="prakash_cm_007" /></a> </p>
 
 - 🔭 I’m currently working on [Movies Search Engine](https://bookera.netlify.app/)
 
